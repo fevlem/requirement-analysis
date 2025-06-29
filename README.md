@@ -27,7 +27,7 @@ Requirement Analysis is crucial in SDLC for several reasons:
 
 5.Cost-Effectiveness: Identifying and fixing requirement issues early is significantly less expensive than making changes after development has begun or after product release.
 
-# Key Activities in Requirement Analysis
+### Key Activities in Requirement Analysis
 The requirement analysis process typically involves these key activities:
 
 .Requirement Gathering: Collecting information about what the system should do from stakeholders through interviews, surveys, and workshops.
@@ -40,8 +40,8 @@ The requirement analysis process typically involves these key activities:
 
 .Requirement Validation: Ensuring requirements are complete, consistent, and achievable through reviews, prototyping, and test case development.
 
-# Types of Requirements
-## Functional Requirements
+## Types of Requirements
+### Functional Requirements
 Functional requirements define what the system should do. Examples for a booking management system:
 
 .The system shall allow users to search for available rooms by date range
@@ -49,7 +49,7 @@ Functional requirements define what the system should do. Examples for a booking
 .The system shall process online payments for bookings
 .The system shall send confirmation emails after successful bookings
 .The system shall allow users to view their booking history
-## Non-functional Requirements
+### Non-functional Requirements
 Non-functional requirements define how the system should perform. Examples:
 
 .The system shall handle 1000 concurrent users during peak hours (Performance)
