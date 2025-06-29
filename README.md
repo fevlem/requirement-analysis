@@ -2,7 +2,7 @@
 # Requirement Analysis in Software Development
 This repository is dedicated to understanding and documenting the process of requirement analysis in software development. It serves as a resource for learning about the importance, methods, and best practices of gathering and analyzing software requirements
 
-# What is Requirement Analysis?
+## What is Requirement Analysis?
 Requirement Analysis is the process of determining user expectations for a new or modified software product. It is a critical phase in the Software Development Life Cycle (SDLC) where developers and stakeholders collaborate to define, document, and validate the needs that must be met by the software solution.
 
 During requirement analysis, the development team:
@@ -14,7 +14,7 @@ During requirement analysis, the development team:
 .Resolves any conflicts or ambiguities in requirements
 .This phase bridges the gap between business needs and technical implementation, ensuring the final product aligns with user expectations and business objectives.
 
-# Why is Requirement Analysis Important?
+## Why is Requirement Analysis Important?
 Requirement Analysis is crucial in SDLC for several reasons:
 
 1.Reduces Development Risks: Proper requirement analysis helps identify potential problems early in the process, reducing the likelihood of costly changes during later stages of development.
